@@ -33,16 +33,6 @@
 
 https://github.com/mitas30/SearchPatentWithLLM/assets/83048191/55631110-a75e-455d-a945-1d55f83efa7a
 
-# Quick Start
-
-<b>In Progress</b>
-
-<details><summary>なぜユーザが使える状態にないのか</summary>
-<b>以下の内容を案内する文章/コードを書くのがめんどうなため</b><br>
-1. 特許庁からバルクデータとAPIを取得するため、前処理をユーザが行うのに、特許庁への登録申請が必要であり、これはQuick Startといえるほど楽に行えない。<br>
-2. デモビデオのために使用した特許15,000件と、そのキーワード82,000件のデータは700MB程度あり、これをユーザのmongoDBに簡単に入れてもらうための案内、またはコードを書くのがめんどう。<br>
-</details>
-
 # 技術概要
 
 ## workflow
